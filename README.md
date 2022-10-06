@@ -12,7 +12,7 @@ No app também é possível digitar qualquer cep para verificar o endereço comp
 
 ## :bulb: Tecnologias usadas:
 
-- `React Native CLI`
+- `React Native`
 - `Expo`
 - `Axios`
 - `Javascript`
